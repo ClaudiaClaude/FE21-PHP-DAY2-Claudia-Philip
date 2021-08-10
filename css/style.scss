@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+// [class^="cloud-bg"] {
+//     width: 300px;
+//     height: 400px;
+// }
+
+.cloud-bg-very-cold {
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/18/13/22/cloud-37011__340.png) no-repeat fixed center;
+    
+}
+
+.cloud-bg-cold {
+    background-image: url("https://cdn.pixabay.com/photo/2012/04/18/13/22/cloud-37010__340.png") no-repeat fixed center;
+}
+
+.cloud-bg-pleasant {
+    background-image: url("https://cdn.pixabay.com/photo/2012/04/18/13/21/clouds-37009__340.png") no-repeat fixed center;
+}
+
+.cloud-bg-warm {
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/13/12/12/sun-159392__480.png") no-repeat fixed center;
+}
+
+.cloud-bg-hot {
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/13/10/23/sun-157126__340.png") no-repeat fixed center;
+}
+
+.cloud-bg-freeze {
+    background-image: url("https://cdn.pixabay.com/photo/2012/04/18/13/23/cloudy-37012__480.png");
+}
